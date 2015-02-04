@@ -1,0 +1,21 @@
+#mainBox {
+	position: absolute;
+	width: 800px;
+	height: 200px;
+	text-align: center;
+	font-family: Arial;
+	background-color: #bbbbaa;
+}
+
+#test1 {
+	position: absolute;
+	width: 800px;
+	height: 300px;
+	padding-top: 200px;
+	font-family: "Calibri";
+}
+
+
+#bodyBox {
+	background-color: #bbbbaa;
+}
